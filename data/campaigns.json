@@ -1,0 +1,59 @@
+{
+  "CAMP100": {
+    "code": "CAMP100",
+    "name": "Valorant Drive",
+    "niches": [
+      "Gaming"
+    ],
+    "creators": {}
+  },
+  "CAMP101": {
+    "code": "CAMP101",
+    "name": "The UK Trip",
+    "niches": [
+      "Travel"
+    ],
+    "creators": {
+      "CR003": "Shortlisted"
+    }
+  },
+  "CAMP102": {
+    "code": "CAMP102",
+    "name": "Agentic AI",
+    "niches": [
+      "Tech"
+    ],
+    "creators": {}
+  },
+  "CAMP103": {
+    "code": "CAMP103",
+    "name": "Daily Vlog",
+    "niches": [
+      "Lifestyle"
+    ],
+    "creators": {
+      "CR005": "Shortlisted",
+      "CR001": "Backup",
+      "CR003": "Rejected"
+    }
+  },
+  "CAMP104": {
+    "code": "CAMP104",
+    "name": "Gen AI Drive",
+    "niches": [
+      "Tech"
+    ],
+    "creators": {}
+  },
+  "C01": {
+    "code": "C01",
+    "name": "Agentic AI Drive",
+    "niches": [
+      "Ai",
+      "Tech"
+    ],
+    "creators": {
+      "CR004": "Shortlisted"
+    }
+  }
+}
